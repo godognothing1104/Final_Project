@@ -77,9 +77,13 @@ pip install tensorflow keras numpy pillow matplotlib
 |-- Loss,Accuracy_of_Epochs.png            # Loss and Accuracy Plot of training epochs
 |-- README.md                              # Project overview and setup instructions
 ```
-
+## Result
+* **Accuracy and Loss Training Plot:**
+   ![Loss,Accuracy_of_Epochs.png](Loss%2CAccuracy_of_Epochs.png)
+* **Sample use of the project:**
+   [sample_video.mp4](sample_video.mp4)
 ## Report
-For a detailed explanation of the implementation, methodologies, and results, refer to the **Real_Time_Handwritten_Digit_Recognition_Report** in the project directory.
+For a detailed explanation of the implementation, methodologies, and results, refer to the [Real_Time_Handwritten_Digit_Recognition_Report.pdf](Real_Time_Handwritten_Digit_Recognition_Report.pdf) in the project directory.
 
 ## Future Improvements
 - Add more datasets for training.
