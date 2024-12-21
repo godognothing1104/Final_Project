@@ -6,8 +6,9 @@
         <entry key="$PROJECT_DIR$/.idea/Handwritten Digit Recognition using Neural Network - Allowing writing digits on screen.iml">
           <value>
             <JupyterConnectionParameters>
+              <option name="argv" value="notebook" />
               <option name="managed" value="true" />
-              <option name="sdkName" value="Python 3.12" />
+              <option name="sdkName" value="E:\Anaconda" />
             </JupyterConnectionParameters>
           </value>
         </entry>
